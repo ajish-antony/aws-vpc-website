@@ -36,4 +36,4 @@ alt_txt
 
 ## Conclusion
 
-Here is a small project where a website with a database and is deployed in an AWS infrastructure with high security via VPC, NACL, security groups.
+Here it was an AWS-based project for a website configured with custom VPC and provided with maximum security.
