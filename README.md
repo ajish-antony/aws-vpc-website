@@ -32,7 +32,7 @@ For establishing maximum security for the instances, implemented with restricted
 
 ![
 alt_txt
-](https://i.ibb.co/q7tVhMj/PHP-Website-High-Security-4.jpg)
+](https://i.ibb.co/026nVHV/PHP-Website-High-Security-4.jpg)
 
 
 ## Conclusion
